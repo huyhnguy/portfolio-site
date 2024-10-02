@@ -23,10 +23,29 @@ async function getProjects() {
     return data;
 }
 
+function sortProjects(a: Data, b: Data) {
+    if (a.title === 'Popinjay - Messaging App') {
+        return -1
+    } else if (b.title === 'Popinjay - Messaging App') {
+        return 1
+    } else if (a.title === 'Where Are The Superheroes? - Photo Tagging App') {
+        return -1
+    } else if (b.title === 'Where Are The Superheroes? - Photo Tagging App') {
+        return 1
+    } else if (a.title === 'Bonfire - E Commerce Store') {
+        return -1
+    } else if (b.title === 'Bonfire - E Commerce Store') {
+        return 1
+    } else {
+        return 0
+    }
+}
+
 export const revalidate = 60;
 
 export default async function Projects() {
     const data: Data[] = await getProjects();
+    data.sort(sortProjects);
 
     return (
         <div className="divide-y divide-gray-200 dark:divide-gray-700">
