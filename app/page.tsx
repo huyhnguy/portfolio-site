@@ -54,8 +54,8 @@ export default function Home() {
 
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
           <p>Hey my name is Huy and I am a Full Stack developer based in Austin, Texas.</p>
-          <p>Out of curiosity, I started learning web development in 2023 through an online curriculum called 'The Odin Project'. Since then, I have built strong fundamentals and eagerly seek out new technologies and skills to get better every day. I enjoy wrestling with problems and emerging on the other side with applications I'm proud of.</p>
-          <p>When I'm not coding, I love to play tennis, go to the gym, watch movies, or play competitive video games.</p>
+          <p>Out of curiosity, I started learning web development in 2023 through an online curriculum called The Odin Project. Since then, I have built strong fundamentals and eagerly seek out new technologies and skills to get better every day. I enjoy wrestling with problems and emerging on the other side with applications I am proud of.</p>
+          <p>When I am not coding, I love to play tennis, go to the gym, watch movies, or play competitive video games.</p>
         </div>
       </div>
     </div>
