@@ -53,10 +53,10 @@ export default function Home() {
         </div>
 
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
-          <p>Hey my name is Huy and I am a Full Stack Developer.</p>
-          <p>I have previous experience working as a paraprofessional teaching autistic children that has helped me develop problem-solving skills and communication skills that carry over into software development. To pursue my passion for software, I decided to
-          teach myself web development through The Odin Project, an online full stack curriculum. Since then, I have built strong fundamentals and eagerly seek out new technologies and skills to get better every day. I enjoy wrestling with problems and emerging on the other side with applications I am proud of.</p>
-          <p>When I am not coding, I love to play tennis, go to the gym, watch movies, or play competitive video games.</p>
+          <p>Hi, I'm Huy Nguyen, a dedicated and versatile software engineer with a passion for crafting intuitive and engaging digital experiences. With a strong foundation in TypeScript, JavaScript, React, Next.js, and Tailwind, I bring innovative solutions to every project I undertake. My portfolio includes building full-stack applications, designing user-friendly interfaces, and implementing robust backends.</p>
+          <p>Currently volunteering with CuraJOY and Real Queens Fix Each Other's Crowns, I’m enhancing their website using modern technologies and best practices, ensuring a seamless and visually appealing user experience. I’ve also collaborated with non-profits like Asian World Film Festival and TAYO Legacy Foundation</p>
+          <p>Beyond coding, my background in psychology and behavioral therapy equips me with a unique perspective on user interaction and design. Whether it's launching a messaging app like Popinjay or creating a web game like Where Are The Superheroes?, I’m committed to delivering high-quality, user-centered applications.</p>
+          <p>Feel free to explore my projects, check out my GitHub, or contact me to discuss how we can work together to bring your ideas to life!</p>
         </div>
       </div>
     </div>
