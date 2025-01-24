@@ -28,6 +28,10 @@ function sortProjects(a: Data, b: Data) {
         return -1
     } else if (b.title === 'Popinjay - Messaging App') {
         return 1
+    } else if (a.title === '18 Holes 4 A Cause') {
+        return -1
+    } else if (b.title === '18 Holes 4 A Cause') {
+        return 1
     } else if (a.title === 'Where Are The Superheroes? - Photo Tagging App') {
         return -1
     } else if (b.title === 'Where Are The Superheroes? - Photo Tagging App') {
