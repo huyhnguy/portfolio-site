@@ -53,10 +53,10 @@ export default function Home() {
         </div>
 
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
-          <p>Hi, I&apos;m Huy Nguyen, a software engineer with a passion for making intuitive and functional digital experiences. With a strong foundation in TypeScript, JavaScript, React, Next.js, Tailwind, Node.js, Express.js, and MongoDB, I bring a high level of quality to every project I participate in. My portfolio includes building full-stack applications, and designing user-friendly interfaces.</p>
-          <p>Currently volunteering with CuraJOY and Real Queens Fix Each Other&apos;s Crowns, I&apos;m enhancing their website using modern technologies and best practices, ensuring a seamless and visually appealing user experience. I&apos;ve also collaborated with non-profits like Asian World Film Festival and TAYO Legacy Foundation</p>
-          <p>Beyond coding, my background in psychology, behavioral therapy, and teaching equips me with a unique perspective on user interaction and design. Whether it&apos;s launching a messaging app like Popinjay or creating a web game like Where Are The Superheroes?, I&apos;m committed to delivering high-quality, user-centered applications.</p>
-          <p>Feel free to explore my projects, check out my GitHub, or contact me to discuss how we can work together to bring your ideas to life!</p>
+          <p>Hey there! I&apos;m Huy Nguyen, a software engineer who thrives on turning creative ideas into practical, user-friendly digital solutions. My journey into tech is anything but typical—it&apos;s shaped by my background in psychology, behavioral therapy, and teaching. This perspective helps me focus on designing apps and websites that don&apos;t just work but truly resonate with the people who use them.</p>
+          <p>I work with tools like TypeScript, React, Node.js, Next.js, and MongoDB, which have helped me build everything from messaging apps to interactive web games. Right now, I&apos;m collaborating with organizations like CuraJOY and Real Queens Fix Each Other&apos;s Crowns, revamping their websites to be more engaging and efficient. I&apos;ve also teamed up with nonprofits such as the Asian World Film Festival and TAYO Legacy Foundation to design projects that make an impact.</p>
+          <p>For me, coding isn&apos;t just about lines of code—it&apos;s about solving problems, creating better experiences, and learning along the way. Whether it&apos;s building a sleek interface, making sure a backend runs smoothly, or adding those little touches that make a project stand out, I&apos;m all in.</p>
+          <p>Take a look around my portfolio, dive into my GitHub, or just drop me a message. I&apos;d love to hear your ideas and see how we can make them happen together!</p>
         </div>
       </div>
     </div>
