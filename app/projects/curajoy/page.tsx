@@ -21,7 +21,7 @@ export default function Page() {
           <ul>
             <li>Collaborated with a team of designers and developers to enhance the website&apos;s functionality and aesthetic</li>
             <li>Built responsive components that would look great at any screen size</li>
-            <li>Used accessible elements to ensure these componenets are friendly for user with disabilities</li>
+            <li>Used accessible elements to ensure these components are friendly for user with disabilities</li>
             <li>Implemented unit tests for reliability</li>
           </ul>
           <p>Components I Worked On:</p>
