@@ -1,7 +1,7 @@
 import Image from "next/image";
 import donateForm from "../../images/DonateForm.png";
 import videoPitch from "../../images/VideoPitch.png";
-import navBar from "../../images/NavBar.png";
+import navBar from "../../images/Navbar.png";
 
 
 export default function Page() {
