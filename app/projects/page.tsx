@@ -1,7 +1,6 @@
 import { client } from "../lib/sanity"
 import Image from "next/image"
 import curajoyLogo from "../images/curajoy-logo.png"
-import Link from "next/link"
 
 interface Data {
     title: string,
