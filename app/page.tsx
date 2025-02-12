@@ -55,7 +55,7 @@ export default function Home() {
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
           <p>I&apos;m a software developer who delivers high-quality results, whether working solo or in a team. I have experience collaborating with clients, building full-stack applications, and implementing complex features.</p>
           <p>Currently, I&apos;m a Full-Stack Developer at <a href="https://www.santoscreations.org/" target="_blank">Santos Creations Educational Foundation (SCEF)</a> and a Frontend Developer at <a href="https://www.curajoy.org/homepage" target="_blank">CuraJOY</a>.</p>
-          <p>At SCEF, I&apos;m leading the development of their website from the ground up, handling both frontend and backend. My responsibilities include building a payment system, multi-user dashboards, a responsive chatbot, a database, and a registration system—features I am actively developing to enhance the organization's digital presence.</p>
+          <p>At SCEF, I&apos;m leading the development of their website from the ground up, handling both frontend and backend. My responsibilities include building a payment system, multi-user dashboards, a responsive chatbot, a database, and a registration system—features I am actively developing to enhance the organization&apos;s digital presence.</p>
           <p>At CuraJOY, I work alongside designers and developers to revamp their website and implement unit tests using TypeScript, React, Next.js, Jest, and Tailwind.</p>
           <p>You can check out some of my solo projects outside of my work at SCEF and CuraJOY here on my website. Feel free to reach out if you have any questions or are interested in collaborating!</p>
         </div>
