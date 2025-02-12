@@ -53,10 +53,11 @@ export default function Home() {
         </div>
 
         <div className="prose max-w-none prose-lg pt-8 pb-7 dark:prose-invert xl:col-span-2">
-          <p>Hey there! I&apos;m Huy Nguyen, a software engineer who thrives on turning creative ideas into practical, user-friendly digital solutions. My journey into tech is anything but typical—it&apos;s shaped by my background in psychology, behavioral therapy, and teaching. This perspective helps me focus on designing apps and websites that don&apos;t just work but truly resonate with the people who use them.</p>
-          <p>I work with tools like TypeScript, React, Node.js, Next.js, and MongoDB, which have helped me build everything from messaging apps to interactive web games. Right now, I&apos;m collaborating with organizations like CuraJOY and Real Queens Fix Each Other&apos;s Crowns, revamping their websites to be more engaging and efficient. I&apos;ve also teamed up with nonprofits such as the Asian World Film Festival and TAYO Legacy Foundation to design projects that make an impact.</p>
-          <p>For me, coding isn&apos;t just about lines of code—it&apos;s about solving problems, creating better experiences, and learning along the way. Whether it&apos;s building a sleek interface, making sure a backend runs smoothly, or adding those little touches that make a project stand out, I&apos;m all in.</p>
-          <p>Take a look around my portfolio, dive into my GitHub, or just drop me a message. I&apos;d love to hear your ideas and see how we can make them happen together!</p>
+          <p>I&apos;m a software developer who delivers high-quality results, whether working solo or in a team. I have experience collaborating with clients, building full-stack applications, and implementing complex features.</p>
+          <p>Currently, I&apos;m a Full-Stack Developer at <a href="https://www.santoscreations.org/" target="_blank">Santos Creations Educational Foundation (SCEF)</a> and a Frontend Developer at <a href="https://www.curajoy.org/homepage" target="_blank">CuraJOY</a>.</p>
+          <p>At SCEF, I&apos;m leading the development of their website from the ground up, handling both frontend and backend. My responsibilities include building a payment system, multi-user dashboards, a responsive chatbot, a database, and a registration system—features I am actively developing to enhance the organization's digital presence.</p>
+          <p>At CuraJOY, I work alongside designers and developers to revamp their website and implement unit tests using TypeScript, React, Next.js, Jest, and Tailwind.</p>
+          <p>You can check out some of my solo projects outside of my work at SCEF and CuraJOY here on my website. Feel free to reach out if you have any questions or are interested in collaborating!</p>
         </div>
       </div>
     </div>
