@@ -26,6 +26,8 @@ async function getProjects() {
 function sortProjects(a: Data, b: Data) {
     if (a.title === 'Santos Creations Educational Foundation (SCEF) Website') {
         return -1
+    } else if (b.title === 'Santos Creations Educational Foundation (SCEF) Website') {
+        return 1
     } else if (a.title === 'Popinjay - Messaging App') {
         return -1
     } else if (b.title === 'Popinjay - Messaging App') {
